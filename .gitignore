@@ -23,8 +23,9 @@
 hs_err_pid*
 replay_pid*
 
-# gradle build cache
+# gradle
 .gradle/
+build/
 
 # IDEA cache
 .idea
